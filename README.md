@@ -1,2 +1,2 @@
 # PostProcessingTestingProjectForMobileDevices2
-This project is for testing Unity's post processing effects on mobile devices (iOS and Android)
+This is a simple project for testing Unity's post processing effects on mobile devices (iOS and Android)
